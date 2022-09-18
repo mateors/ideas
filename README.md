@@ -7,6 +7,7 @@ Business or product development ideas
 
 ## No code / Low code platform
 * Database from scratch implementing graphql over key value store.
+* Compettitor -> Airtable | Zapier | bizRow
 
 ## Golang Hosting platform
 * Binary app hosting / MasterHost / Similar to heroku,cpanel,plesk
