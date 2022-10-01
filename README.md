@@ -4,6 +4,7 @@ Business or product development ideas
 ## Remote Time Keeper
 
 * [Using Go to call Windows API](https://justen.codes/breaking-all-the-rules-using-go-to-call-windows-api-2cbfd8c79724)
+* [How-To-Call-Windows-APIs-In-Golang](https://anubissec.github.io/How-To-Call-Windows-APIs-In-Golang/#)
 
 ### UIAutomationClient.dll
 * syscall.NewLazyDLL("UIAutomationClient.dll")
