@@ -1,6 +1,16 @@
 # ideas
 Business or product development ideas
 
+## Remote Time Keeper
+
+* [Using Go to call Windows API](https://justen.codes/breaking-all-the-rules-using-go-to-call-windows-api-2cbfd8c79724)
+
+### UIAutomationClient.dll
+* syscall.NewLazyDLL("UIAutomationClient.dll")
+* https://github.com/hnakamur/w32uiautomation
+* https://github.com/go-adsi/adsi
+* https://github.com/go-ole/go-ole/blob/master/_example/ie/ie.go
+
 ## AI Product / Machine Learning
 * Multilingual chat application | [deepSpeech](https://github.com/mozilla/DeepSpeech) | [espnet](https://github.com/mateors/espnet)
 
